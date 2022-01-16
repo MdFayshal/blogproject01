@@ -1,4 +1,3 @@
-
 <?php include('admin/config.php'); ?>
 <?php include('include/head.php'); ?>
 
@@ -12,7 +11,7 @@
 		<div class="row">
 			<div class="col-md-8">
 				<!-- Main Posts -->
-				<?php include('include/blogpost.php'); ?>
+				<?php include('include/ctgpost.php'); ?>
 
 			</div>
 			<div class="col-md-4">
